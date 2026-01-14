@@ -24,7 +24,3 @@ Experiments around generating valid quantum states using machine learning.
 
 **[Witness Learning](https://github.com/Jeeves-Cluster-Organization/ML_QML_Witness_Generation)**  
 Looking at whether machine learning can help reduce measurement overhead in entanglement studies.
-
----
-
-More projects and notes at **[2shabby.github.io](https://2shabby.github.io)**
