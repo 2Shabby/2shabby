@@ -1,16 +1,33 @@
-## Hi there 👋
+### 2Shabby
 
-<!--
-**2Shabby/2shabby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on software that runs locally, behaves sensibly, and can be stopped and understood when something goes wrong. Most of what I build is tooling rather than end-user products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I’m Working On
+
+**[Jeeves Runtime](https://github.com/Jeeves-Cluster-Organization/jeeves-core)**  
+A runtime for long-running agent tasks that can be paused and resumed instead of restarted from scratch.
+
+**[Code Analysis](https://github.com/Jeeves-Cluster-Organization/jeeves-capability-code-analysis)**  
+Tools for exploring large codebases while being strict about what can and can’t be claimed.
+
+**[Voice on the Edge](https://github.com/Jeeves-Cluster-Organization/voice_radxa_gateway)**  
+Local voice input and speech synthesis on a Radxa Rock 5, without relying on cloud services.
+
+**[Energy Monitoring](https://github.com/2Shabby/ESW)**  
+Collecting and working with power meter data using an ESP32 and a small backend.
+
+---
+
+#### Past Work
+
+**[Quantum State Generation](https://github.com/2Shabby/broadcastability_ml_project)**  
+Experiments around generating valid quantum states using machine learning.
+
+**[Witness Learning](https://github.com/Jeeves-Cluster-Organization/ML_QML_Witness_Generation)**  
+Looking at whether machine learning can help reduce measurement overhead in entanglement studies.
+
+---
+
+More projects and notes at **[2shabby.github.io](https://2shabby.github.io)**
