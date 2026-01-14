@@ -15,9 +15,6 @@ Tools for exploring large codebases while being strict about what can and can’
 **[Voice on the Edge](https://github.com/Jeeves-Cluster-Organization/voice_radxa_gateway)**  
 Local voice input and speech synthesis on a Radxa Rock 5, without relying on cloud services.
 
-**[Energy Monitoring](https://github.com/2Shabby/ESW)**  
-Collecting and working with power meter data using an ESP32 and a small backend.
-
 ---
 
 #### Past Work
